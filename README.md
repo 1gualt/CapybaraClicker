@@ -12,3 +12,5 @@ cd capyclicker
 pip3 install -r requirements.txt
 python3 main.py
 ```
+
+[Telegram](https://t.me/+JLqUXuD1Xs1lOGNi)
