@@ -35,7 +35,7 @@ async def main():
     data = await init_data()
     print(data)
     x = int(input("Сколько повторов делать: "))
-    while True:
+    while x:
         await asyncio.create_task(mine(data.decode('utf-8')))
 
 
