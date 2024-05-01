@@ -7,8 +7,8 @@
 
 *Открываете терминал, прописываете команды ниже. По порядку*
 ```bash
-git clone https://github.com/1gualt/CapybaraClicker > capyclicker
-cd capyclicker
+git clone https://github.com/1gualt/CapybaraClicker
+cd CapybaraClicker
 pip3 install -r requirements.txt
 python3 main.py
 ```
